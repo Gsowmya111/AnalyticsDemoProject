@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AnalyticsDemoProject</string>
+    <string name="title_activity_next_screen">Next Screen</string>
+    <string name="my_fragment">This is a Fragment! Tap Fragment Button again to remove this Fragment from this Activity</string>
+    <string name="categoryId">Purchase</string>
+    <string name="actionId">Buy Tickets</string>
+    <string name="labelId">Buy Tickets Button Pressed!</string>
+
+    <string name="categoryId1">Purchase2</string>
+    <string name="actionId1">Buy Tickets2</string>
+    <string name="labelId1">Buy Tickets Button Pressed2!</string>
+</resources>

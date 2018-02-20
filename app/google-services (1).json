@@ -1,0 +1,43 @@
+{
+  "project_info": {
+    "project_number": "911986907971",
+    "project_id": "firebase-analyticsdemoproject"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911986907971:android:c3034e6b31c0dc78",
+        "android_client_info": {
+          "package_name": "com.example.sowmyaram.analyticsdemoproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "911986907971-i351jdqi2fn39snnhs5rbj17vch2mlv1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVK4keIjM_WToEzf9AetDYykyK_ZxkBlw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 2,
+          "analytics_property": {
+            "tracking_id": "UA-108420385-1"
+          }
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
